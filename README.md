@@ -17,3 +17,17 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
+
+# Description
+This is a backend application that has been developed using NODE.js, Sequelize, Express, and dotenv to provide support for the front-end of an e-commerce website. Its primary function is to help users manage data under three categories: Category, Tag, and Product. These categories are interdependent and can be searched easily using predefined standards. The application has been built using object-relational mapping and command line interface (CLI) to perform various methods of data manipulation, storage, and retrieval via HTTP methods using a RESTful API. To interact with the MySQL database, the application employs Express.js API and Sequelize. Its aim is to create an efficient and user-friendly backend for an online shop.
+
+# Installation 
+npm install command will install javascript dependencies
+npm i
+npm run seeds
+npm start
+
+# Mock Up
+assets\13-orm-homework-demo-01.gif
+assets\13-orm-homework-demo-02.gif
+assets\13-orm-homework-demo-03.gif
