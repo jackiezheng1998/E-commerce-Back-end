@@ -28,6 +28,10 @@ npm run seeds
 npm start
 
 # Mock Up
-assets\13-orm-homework-demo-01.gif
-assets\13-orm-homework-demo-02.gif
-assets\13-orm-homework-demo-03.gif
+![13-orm-homework-demo-01](https://user-images.githubusercontent.com/118042037/219538534-a5cfbe38-f379-41da-abba-5a2edcf5dbbd.gif)
+![13-orm-homework-demo-02](https://user-images.githubusercontent.com/118042037/219538546-23eb9bcd-cf5f-4a15-933d-65f722a930c1.gif)
+![13-orm-homework-demo-03](https://user-images.githubusercontent.com/118042037/219538571-79ca5068-fc8d-4223-961a-7f9e8032677d.gif)
+
+
+
+
